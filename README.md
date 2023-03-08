@@ -1,4 +1,4 @@
-# Tech-stack
+# Tech Stack
 C#
 
 # smolNotesApp
